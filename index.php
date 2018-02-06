@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Banshee´s Veil</title>
+		<title>Bitter Sweet Media</title>
 		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/libs/base.css">
 
@@ -17,7 +17,7 @@
 				<nav class="navbar navbar-inverse">
 					<div class="container-fluid ">
 				    <div class="navbar-header col-md-2 col-xs-2">
-				     <img class="logo" src="" alt="" width="100%" height="100%">
+				     <img class="logo" src="assets\resources\images\bs vector.png" alt="" width="100%" height="100%">
 				    </div>
 						<?php //  <<<<<<< HEAD ?>
 
