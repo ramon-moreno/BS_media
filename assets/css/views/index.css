@@ -48,6 +48,18 @@ header{
 		padding-bottom: 0;
 
 	}
+	section.banner{
+    width: 100%;
+    position: relative;
+    height: 300px;
+    margin-bottom: 30px;
+    background-color: #fafafa;
+    background-image: image("tape_header.png");
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+    opacity: .7;
+  }
 main{
 	min-height: 500px;
 	margin-top: 50px;
