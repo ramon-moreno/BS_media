@@ -35,7 +35,21 @@ header{
 	}
 	header div.container nav div.container-fluid{
 	padding: 0;
+
 	}
+/*	header div.container nav div.containe-fluid div.nav-header{
+		width: 100%;
+    position: relative;
+    height: 250px;
+    margin-bottom: 30px;
+    background-color: #aaaaaa;
+    background-image: url("https://pixabay.com/es/cinta-pel%C3%ADcula-fotograma-1458416/");
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+		opacity: 1;
+	}
+*/
 	header div.container nav div ul{
 		border: solid 1px	 #1E1E1E;
 		background-color: #000000;
@@ -48,18 +62,19 @@ header{
 		padding-bottom: 0;
 
 	}
-	section.banner{
+/*	section.banner{
     width: 100%;
     position: relative;
-    height: 300px;
+    height: 250px;
     margin-bottom: 30px;
-    background-color: #fafafa;
-    background-image: image("tape_header.png");
+    background-color: #aaaaaa;
+    background-image: url("https://pixabay.com/es/cinta-pel%C3%ADcula-fotograma-1458416/");
     background-repeat: repeat-y;
     background-size: cover;
     background-position: center;
-    opacity: .7;
+		opacity: .7;
   }
+	*/
 main{
 	min-height: 500px;
 	margin-top: 50px;

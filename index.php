@@ -13,39 +13,42 @@
 	</head>
 	<body>
 		<header>
-			<div class="container">
-				<nav class="navbar navbar-inverse">
-					<div class="container-fluid ">
-				    <div class="navbar-header col-md-2 col-xs-2">
-				     <img class="logo" src="assets\resources\images\bs vector.png" alt="" width="100%" height="100%">
-				    </div>
-						<?php //  <<<<<<< HEAD ?>
 
-						<br>
-						<div class="menu">
-					    <ul class="nav navbar-nav col-md-12 col-xs-12 holi">
-					      <li class=""><a href="#"> Home </a></li>
-					      <li class="dropdown">
-					        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1
-					        <span class="caret"></span></a>
-					        <ul class="dropdown-menu">
-					          <li><a href="#">Page 1-1</a></li>
-					          <li><a href="#">Page 1-2</a></li>
-					          <li><a href="#">Page 1-3</a></li>
-										<li><p>-</p> </li>
-										<li><p>-</p> </li>
-										<li><p>-</p> </li>
-										<li><p>-</p> </li>
-					        </ul>
-					      </li>
-					      <li><a href="#">Page 2</a></li>
-					      <li><a href="#">Page 3</a></li>
-							</ul>
+			<section class="banner">
+				<div class="container">
+					<nav class="navbar navbar-inverse">
+						<div class="container-fluid ">
+							<div class="navbar-header col-md-2 col-xs-2">
+							 <img class="logo" src="assets\resources\images\bs vector.png" alt="" width="100%" height="100%">
+							</div>
+							<?php //  <<<<<<< HEAD ?>
+
+							<br>
+							<div class="menu">
+								<ul class="nav navbar-nav col-md-12 col-xs-12 holi">
+									<li class=""><a href="#"> Home </a></li>
+									<li class="dropdown">
+										<a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1
+										<span class="caret"></span></a>
+										<ul class="dropdown-menu">
+											<li><a href="#">Page 1-1</a></li>
+											<li><a href="#">Page 1-2</a></li>
+											<li><a href="#">Page 1-3</a></li>
+											<li><p>-</p> </li>
+											<li><p>-</p> </li>
+											<li><p>-</p> </li>
+											<li><p>-</p> </li>
+										</ul>
+									</li>
+									<li><a href="#">Page 2</a></li>
+									<li><a href="#">Page 3</a></li>
+								</ul>
+							</div>
+							<?php //=======  ?>
 						</div>
-						<?php //=======  ?>
-				  </div>
-				</nav>
-			</div>
+					</nav>
+				</div>
+			</section>
 		</header>
 		<main>
 
